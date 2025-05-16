@@ -5,7 +5,7 @@
 #include <math.h>
 #include <imgui.h>
 
-const char kWindowTitle[] = "LD2A_04_トヨダヤヤ_MT3_02_02";
+const char kWindowTitle[] = "LD2A_04_トヨダヤヤ_MT3_02_01";
 
 //================================================================
 // 構造体の宣言
